@@ -1,5 +1,5 @@
 # United States Airports Map :airplane:
-Link to [webmap](https://garciahan.github.io/USairport_map/map.html)
+Link to [webmap](https://garciahan.github.io/USairportsmap/map.html)
 ##### Objective:
 The object of this lab exercise is to create a thematic web map of all airports in the United States. One learning objective was to create a appealing map that allows for customization of map features to create a interactive map. This was done using a leaflet base map. On top of that shapefiles were added onto the map and given appropriate symbology.
 Functions used -
