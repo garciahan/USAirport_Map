@@ -4,7 +4,7 @@ var mymap = L.map('map', {
      maxZoom: 20,
      minZoom: 3,
      detectRetina: true});
- L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
+ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
  var airports = null;
  var colors = chroma.scale('Set2').mode('lch').colors(9);
  for (i = 0; i < 9; i++) {
